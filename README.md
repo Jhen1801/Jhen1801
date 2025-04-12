@@ -24,9 +24,21 @@ Mi propósito es ser parte de equipos donde el análisis de datos se traduzca en
 
 ---
 
-## 🚀 Últimos proyectos
+## 🚀 Últimos proyectos:
 - 🎯 [Juego del número secreto](https://github.com/Jhen1801/Challenge-Juego-Secreto)
 - 🎯 [Challenge: Amigo secreto](https://github.com/Jhen1801/Challenge-Amigo-Secreto)
+
+---
+
+## 🤓 Lenguajes y herramientas:
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+
 
 ## 📫 ¿Quieres conectar?  
 [LinkedIn](https://www.linkedin.com/in/jhenifer-correa-data/) | [Correo electrónico](mailto:jhenifercorreapsi@gmail.com)
