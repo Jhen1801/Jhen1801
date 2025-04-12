@@ -44,4 +44,4 @@ Mi propósito es ser parte de equipos donde el análisis de datos se traduzca en
 
 
 ## 📫 ¿Quieres conectar?  
-[LinkedIn](https://www.linkedin.com/in/jhenifer-correa-data/) | [Correo electrónico](mailto:jhenifercorreapsi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jhenifer-correa-data/) | [Correo electrónico: jhenifercorreapsi@gmail.com](mailto:jhenifercorreapsi@gmail.com)
