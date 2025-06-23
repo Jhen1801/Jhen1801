@@ -25,6 +25,7 @@ Mi propósito es ser parte de equipos donde el análisis de datos se traduzca en
 ---
 
 ## 🚀 Últimos proyectos:
+- 🎯 [SALUDATA. Proyecto de Análisis de Datos](https://github.com/Jhen1801/SALUDATA)
 - 🎯 [Juego del número secreto](https://github.com/Jhen1801/Challenge-Juego-Secreto)
 - 🎯 [Challenge: Amigo secreto](https://github.com/Jhen1801/Challenge-Amigo-Secreto)
 
