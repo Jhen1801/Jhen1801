@@ -14,6 +14,7 @@ My background combines strong business understanding with solid technical expert
 - Proven ability to translate business questions into analytical solutions.
 
 This combination allows me to connect data, people, and business outcomes effectively.
+
 ---
 
 ## 🧠 Core Strengths
