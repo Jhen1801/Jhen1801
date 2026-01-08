@@ -46,6 +46,7 @@ This background allows me to bridge the gap between technical analysis and real 
 
 **Data & BI**
 - Power BI  
+- Looker Studio
 - Excel
 
 **Web & Others**
@@ -70,4 +71,4 @@ This background allows me to bridge the gap between technical analysis and real 
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 
 ## 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/jhenifer-correa-data/) | [Correo electrónico: jhenifercorreapsi@gmail.com](mailto:jhenifercorreapsi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jhenifer-correa-data/) | [Email: jhenifercorreapsi@gmail.com](mailto:jhenifercorreapsi@gmail.com)
